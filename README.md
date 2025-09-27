@@ -39,7 +39,6 @@
 
 <img src="https://raw.githubusercontent.com/hefe00935/hefe00935/output/snake.svg" alt="Snake animation" />
 
-###
 
 
 
