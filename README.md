@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I'm a student from Turkey that wants to do some projects for experience,portfolio and fun!</h2>
 
-<h2 align="left">And this is my portfolio! https://hefe0935-portfolio.netlify.app </h2>
+<h2 align="left">And this is my portfolio! https://hefe0935-portfolio.netlify.app</h2>
 
 
 <div align="center">
