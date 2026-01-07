@@ -2,6 +2,7 @@
 
 <h2 align="left">And this is my portfolio! https://hefe0935-portfolio.netlify.app</h2>
 
+<h2 align="left">Accidently Posted My API Key👍</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hefe00935&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
